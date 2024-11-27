@@ -31,6 +31,7 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: lamdb/ci-cd:staging
+          
 
 
   pull-and-up:
